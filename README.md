@@ -1,2 +1,2 @@
 # My-Gallery
-Made this Project using Pure CSS &amp; HTML
+Made this Project using Vannila CSS &amp; HTML
